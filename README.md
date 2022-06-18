@@ -1,2 +1,2 @@
 # topupmama
-Data_Scientist_Assessment_test
+Data_Scientist_Projects
